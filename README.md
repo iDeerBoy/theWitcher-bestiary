@@ -2,6 +2,8 @@ The Witcher 3 Bestiary
 Academy-React Project 
 Globant Bootcamp UI
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Witcher! you need to know your prey so you can hunt it.
 In this app, you can search for your prey and read about their weaknesses and their history. You can filter by type or by beast’s weakness, signs, bombs, and potions. Also, you can mark the prey that you hunted and save the location. To finish you can read about the most important witchers of continental history; Gerald of Rivia and the very young but powerful Cirilla Fiona aka Ciri.
 
